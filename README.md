@@ -1,1 +1,2 @@
-# the-git-rocks13
+# The git rocks13.
+I love git.
